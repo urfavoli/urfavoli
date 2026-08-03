@@ -1,42 +1,72 @@
-<h1 align="center">Hi 👋, I'm Soufiane</h1>
-<h3 align="center">Full-Stack & Backend Developer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Hi+👋%2C+I'm+Soufiane;Full-Stack+%26+Backend+Engineer;Building+Scalable+Web+Apps+%26+APIs" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=urfavoli&label=Profile%20views&color=0e75b6&style=flat" alt="urfavoli" />
+  <img src="https://komarev.com/ghpvc/?username=urfavoli&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Available_for_Remote_Contract-34D399?style=for-the-badge&logo=appveyor" alt="Available for Hire" />
 </p>
 
 ---
 
-### 💻 About Me
-* 🌱 I’m currently focused on building production-ready web applications, backend automations, and data processing systems.
-* ⚡ Core Stack: **Next.js, TypeScript, Python, FastAPI, and Supabase**.
-* 🎯 Goal: Delivering clean, high-performance code for remote-first teams and startups.
+### 💻 Who I Am
+I’m a **Full-Stack & Backend Developer** based in Morocco, specializing in building production-ready web applications, high-performance APIs, and data processing automation. I focus on writing clean, scalable code that solves real business bottlenecks for fast-moving startups.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/soufiane-yassine-60a03a23a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/urfavoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+* 🚀 **Core Stack:** Next.js, TypeScript, Python, FastAPI, and Supabase.
+* 🎯 **Current Focus:** Shipping remote backend infrastructure and full-stack solutions for international teams.
 
-<h3 align="left">Core Tech Stack & Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+---
+
+### ⚡ Featured Projects
+
+| Project | Description | Tech Stack | Live Link |
+| :--- | :--- | :--- | :--- |
+| **ComptaLibre** | Production-ready web tool for parsing, extracting, and formatting transactional data from PDF bank statements. | Next.js, TypeScript, Tailwind | [View Live](https://compta-libre.vercel.app) |
+| **Automation Bridge** | High-performance FastAPI microservice integrating secure webhooks with n8n workflow engines. | Python, FastAPI, n8n | [GitHub Repo](https://github.com/urfavoli/automation-bridge) |
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
+### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urfavoli&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=urfavoli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urfavoli&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urfavoli&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/soufiane-yassine-60a03a23a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/urfavoli" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@domain.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
