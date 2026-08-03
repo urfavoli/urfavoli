@@ -45,17 +45,6 @@ I’m a **Full-Stack & Backend Developer** based in Morocco, specializing in bui
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urfavoli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urfavoli&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
