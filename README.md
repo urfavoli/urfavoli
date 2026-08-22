@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Hi+👋%2C+I'm+Soufiane;Full-Stack+%26+Backend+Engineer;Building+Scalable+Web+Apps+%26+APIs" alt="Typing SVG" />
-</div>
+  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=urfavoli&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
@@ -12,8 +11,8 @@
 ### 💻 Who I Am
 I’m a **Full-Stack & Backend Developer** based in Morocco, specializing in building production-ready web applications, high-performance APIs, and data processing automation. I focus on writing clean, scalable code that solves real business bottlenecks for fast-moving startups.
 
-* 🚀 **Core Stack:** Next.js, TypeScript, Python, FastAPI, and Supabase.
-* 🎯 **Current Focus:** Shipping remote backend infrastructure and full-stack solutions for international teams.
+* **Core Stack:** Next.js, TypeScript, Python, FastAPI, and Supabase.
+*  **Current Focus:** Shipping remote backend infrastructure and full-stack solutions for international teams.
 
 ---
 
